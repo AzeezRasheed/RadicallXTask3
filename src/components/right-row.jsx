@@ -42,7 +42,7 @@ const ForRightRow = () => {
 
 
   return (
-   <div className='absolute left-[700px] top-[212px]'>
+   <div className='absolute left-[660px] top-[212px]'>
    {ForRightRow()} 
    </div>
   )

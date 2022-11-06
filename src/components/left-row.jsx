@@ -21,7 +21,7 @@ function Left() {
   const recommendedRolesBoolean = useSelector((state) => state.reducer.recommendedRolesBoolean);
   const webLinksBoolean = useSelector((state) => state.reducer.webLinksBoolean);
   return (
-    <div className="left-[23px]  w-[654px] top-[212px] absolute">
+    <div className="left-[2px]  w-[634px] top-[212px] absolute">
       <div className="flex flex-col gap-[16px] mb-20">
         <div className="flex items-center gap-5">
           <div>
